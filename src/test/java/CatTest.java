@@ -16,6 +16,7 @@ public class CatTest {
     Feline feline;
 
     // проверить getSound
+
     @Test
     public void getSoundMauPositive(){
         Cat cat = new Cat(feline);
